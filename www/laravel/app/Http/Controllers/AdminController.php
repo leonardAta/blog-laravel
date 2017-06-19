@@ -13,7 +13,7 @@ class AdminController extends Controller
 
     public function store() {
 
-    	//dd(request()->all    	$post = new Post;
+    	//dd(request()->all
 
     /*	$post->author = "Leonard Ata";
     	$post->title = request('title');
